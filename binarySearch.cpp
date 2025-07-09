@@ -81,3 +81,14 @@ void BinarySearch()
     }
     cout << endl;
 }
+
+void binarySearch()
+{
+    char ulang;
+    do
+    {
+        cout << "\n=========================================\n";
+        cout << "           Pencarian Binary Search         \n";
+        cout << "===========================================\n";
+        cout << "      Masukkan elemen yang dicari:          ";
+        cin >> x;
